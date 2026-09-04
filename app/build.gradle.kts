@@ -54,4 +54,6 @@ dependencies {
     implementation("com.google.android.gms:play-services-auth:21.2.0")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
+    implementation("androidx.compose.material:material-icons-extended:1.7.5")
+    implementation("androidx.work:work-runtime-ktx:2.9.1")
 }
